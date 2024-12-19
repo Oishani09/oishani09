@@ -1,5 +1,5 @@
 ### Helloww, Oishani here!👋
-🔭 I’m currently working on BOTNET(mern, cybersec & ml based project) & research paper(on ML)<br>👯 I'm a mern stack developer & [UI/UX Freelancer](https://www.behance.net/oishanibanerjee)<br>🌱 I’m currently learning AI/ML and Quantum Computing<br>💬 Ask me about web based querries<br>⚡ Fun fact- I'm a Content creator(3.3k+ followers & 105k+ views)
+👯 I'm a [mern stack developer](https://www.linkedin.com/in/oishani-banerjee-244925253/) & [UI/UX Freelancer](https://www.behance.net/oishanibanerjee)<br>🔭 I’m currently working on BOTNET(mern, cybersec & ml based project) & research paper(on ML)<br>🌱 I’m currently learning AI/ML and Quantum Computing<br>💬 Ask me about web based querries<br>⚡ Fun fact- I'm a Content creator(3.3k+ followers & 105k+ views)
 
 
 ## 🌐 Socials
